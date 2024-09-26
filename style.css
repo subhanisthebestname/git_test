@@ -19,5 +19,38 @@
     border: 20px solid red;
     height: 100px;
     width: 100px;
-    margin: 70px;
+    margin: 60px;
+
+}
+.box3 {
+    background-color: red;
+    width: 100px;
+    /* border: 30px solid green; */
+    /* margin: 60px; */
+    margin-bottom: 50px;
+}
+.box4 {
+    background-color: cyan;
+    width: 100px;
+    /* border: 30px solid grey; */
+    /* margin: 70px; */
+    margin-top: 100px;
+    padding-top: 1px;
+}
+.parent {
+    background-color: lightcyan;
+    padding-top: 1px;
+    margin-top:40px ;
+}
+.child {
+    background-color: lightpink;
+    height: 100px;
+    margin-top: 30px;
+}
+.block {
+    background-color: lightcoral;
+    width: 200px;
+    margin: 10px;
+    padding: 5px;
+    display: inline-block;
 }
